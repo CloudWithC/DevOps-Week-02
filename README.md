@@ -1,11 +1,29 @@
 # DevOps Week 02
 
-This repository demonstrates Git and GitHub fundamentals as part of my DevOps internship.
+## Project Overview
+This repository demonstrates practical Git and GitHub workflows for DevOps collaboration.
 
-## Topics
-- Git workflow
-- Branching
-- Merging
+## Features
+- Git repository management
+- Branching and merging
+- Feature development
 - Pull Requests
+- GitHub collaboration
 - README documentation
-- .gitignore
+- .gitignore configuration
+
+## Project Structure
+
+```text
+DevOps-Week-02/
+├── src/
+├── docs/
+├── index.html
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+Technologies Used
+Git
+GitHub
+Linux
